@@ -1,2 +1,3 @@
-# karya-Juna
-kosong
+index.html
+selamanya.html
+yangtetaptinggal.html
